@@ -12,4 +12,10 @@ Si deseamos que la palabra "Texto" se vaya para la fila de abajo presionamos: **
 
 ## Tipo de Dato que EXCEL le asigna
 
+Visalizamos el tipo de Dato que EXCEL le asigna a una celda:
+
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/2141efb3-84cf-4797-bbd3-8ee784a886e3)
+
+**Tipos de Datos en EXCEL (hay más):**
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/43055051-57e5-4472-94fa-d7de232f2cbb)
