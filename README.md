@@ -10,3 +10,6 @@ Si deseamos que la palabra "Texto" se vaya para la fila de abajo presionamos: **
 
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/d562cb65-9500-4b5d-a6af-82c2878846b1)
 
+## Tipo de Dato que EXCEL le asigna
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/2141efb3-84cf-4797-bbd3-8ee784a886e3)
