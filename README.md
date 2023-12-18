@@ -56,5 +56,7 @@ Podemos ver los Rangos que hemos guardado:
 
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/ea03bedc-dcfd-4f0b-a9a6-425efb0402b0)
 
+## ----------------- Definir nombres a Rangos -----------------
 
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/54997c5a-18a8-4fc2-81b5-7300ab7940e0)
 
