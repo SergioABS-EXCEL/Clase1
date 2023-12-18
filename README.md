@@ -42,5 +42,15 @@ En una celda por default un número se alínea por la derecha y las frases o pal
 
 Si hacemos una vez más nos llevará al límite de la hoja:
 
+## ----------------- Rangos -----------------
+
+Los rangos son conjuntos de celdas
+
+**ctrl + shift + flechita** Permite seleccionar todas las celdas en la fila/columna con información
+
+Se le puede asignar un **NOMBRE AL RANGO**
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/79ffa8a0-a74c-4647-9e1b-5dd6b36b0281)
+
 
 
