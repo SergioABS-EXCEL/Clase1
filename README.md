@@ -52,5 +52,9 @@ Se le puede asignar un **NOMBRE AL RANGO**
 
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/79ffa8a0-a74c-4647-9e1b-5dd6b36b0281)
 
+Podemos ver los Rangos que hemos guardado:
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/ea03bedc-dcfd-4f0b-a9a6-425efb0402b0)
+
 
 
