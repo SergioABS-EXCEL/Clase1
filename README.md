@@ -21,3 +21,5 @@ Visalizamos el tipo de Dato que EXCEL le asigna a una celda:
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/43055051-57e5-4472-94fa-d7de232f2cbb)
 
 ## ----------------- Fórmulas -----------------
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/65ab8b47-9163-429a-acd4-c530133ac5cc)
