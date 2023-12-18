@@ -63,4 +63,9 @@ Nos permite nombrar nuestros rangos y poder saber dónde usarlos (si en una hoja
 
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/e0a67bad-65b4-4986-b5e0-e379abcd14ca)
 
+Si vamos a **Administrar Nombre** podemos ver los nombres de todos los rangos que hemos usado en el libro
+
+También podemos ver de dónde a dónde va el rango de celdas:
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/935e4d22-73f8-45e4-9c35-b79d6978c2ac)
 
