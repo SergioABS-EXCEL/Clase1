@@ -57,6 +57,10 @@ Podemos ver los Rangos que hemos guardado:
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/ea03bedc-dcfd-4f0b-a9a6-425efb0402b0)
 
 ## ----------------- Definir nombres a Rangos -----------------
+Nos permite nombrar nuestros rangos y poder saber dónde usarlos (si en una hoja o en todo el libro)
 
 ![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/54997c5a-18a8-4fc2-81b5-7300ab7940e0)
+
+![image](https://github.com/SergioABS-EXCEL/Clase1/assets/154264004/e0a67bad-65b4-4986-b5e0-e379abcd14ca)
+
 
